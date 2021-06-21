@@ -16,8 +16,6 @@ Automatically edit PDF files using Python.
 # Result 
 ![Screen Shot 2021-06-14 at 21 18 03](https://user-images.githubusercontent.com/64785877/121907170-0209a480-cd56-11eb-9c19-e684bbbc598f.jpg)
 
-You can use this as a guide to edit your own pdf using Python :D
-
 
 # File Structure 
 ### [create_new_pdf.py](https://github.com/AiNguyen237/Edit-PDF-file-with-Python/blob/main/create_new_pdf.py)
